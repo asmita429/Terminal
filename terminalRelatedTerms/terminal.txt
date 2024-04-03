@@ -1,0 +1,22 @@
+The terminal: 
+A text input and output environment.
+
+commands on terminal;
+
+advantages:
+easy installation
+git commands
+ease programming related with terminal
+improved speed
+access of parts of OS
+
+Different terms
+
+command line: any interface that is used by entering textual commands(gen. windows centric)
+terminal: this is a type of command line(gen. mac centric)
+console: a command line interface used to work with your computer
+
+shell: a programming running on terminal
+
+bash: a popular shell on windows/mac os/linux
+z-shell: another shell(default).

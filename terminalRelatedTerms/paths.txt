@@ -1,0 +1,61 @@
+Paths: absolute & relative Path
+
+cd Desktop/Delta (relative path) = relative to our current location
+eg: cd Desktop/apna
+
+cd/Users/Dell/Desktop (absolute path) = it doesn't depend on current working directory
+eg: cd/Desktop/Apna/terminal
+
+/ = root directory
+eg: cd / 
+$ pwd
+/
+
+~ = home directory
+eg: cd ~
+$ pwd
+/c/Users/Dell
+
+
+Making directories
+
+mkdir = make directory (folders)
+eg: mkdir delta/newDir2/hello2  creates hello2
+
+Flags: 
+flags are characters that we pass with commands to modify their behaviour
+manual command
+man ls: give info about ls command
+man mkdir: give info about mkdir command
+
+with Flags (additional information)
+ls -l //additional info about folders/files
+ls -a //lists directories whose name begins with a "."
+ls -la //list hidden files + additional info
+
+Touch Command 
+
+change file access and modification times. If any does not exist,
+it is created with default permissions.
+eg:
+touch index.html
+touch app.js
+touch style.css
+=>
+ls
+app.js  index.html  style.css
+
+
+Deleting files & folder (warning)
+
+//deleted file/folder is impossible if we use terminal
+
+rm -removes files
+rmdir -removes empty folder
+rm-rf -removes any folder(remove recursively).
+
+eg:
+rm app.js index.html style.css
+delete all 3 files
+
+rmdir hello

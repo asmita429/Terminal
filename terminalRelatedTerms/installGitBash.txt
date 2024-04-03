@@ -1,0 +1,38 @@
+https://git-scm.com/downloads
+download for windows
+downloads-> Git Setup
+next
+next
+additional icons->on the desktop(tick)
+nextnext
+override the default branch name for new repositories(main) (tick)
+use Git and optional unix tools from the cmd prompt
+nextnextnextnextnext install
+
+open Git bash
+~ = root directory
+pwd = working directory (eg: /c/Users/Dell)
+
+
+Basic commands:
+
+ls = list files(show any files)
+
+pwd = print working directory(where am i?)
+
+clear = clear screen
+
+//directory = folders
+
+upward keys for older commands which we just typed
+
+
+Navigation: inside & outside directories
+
+cd = change directory
+cd .. = back button (one step back)
+cd ../.. = back button(two steps back)
+cd desktop/apna college = go inside desktop then inside apna college
+
+tab keys = autofill commands
+
